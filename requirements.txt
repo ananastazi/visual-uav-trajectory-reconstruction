@@ -1,0 +1,6 @@
+opencv-python>=4.5
+numpy>=1.19
+scipy>=1.6
+matplotlib>=3.3
+tqdm>=4.60
+natsort~=8.4.0
